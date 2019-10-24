@@ -1,3 +1,3 @@
-# Python wiki
+# Python special interest group
 
-Code to build a wiki in python - or just explore what is possible in GitLab
+This project provides example code and draws together resources available for learning Python.
